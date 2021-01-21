@@ -1,4 +1,4 @@
-<?php phpinfo(); exit;
+<?php
 
 // Variabel
 $host = "host";
